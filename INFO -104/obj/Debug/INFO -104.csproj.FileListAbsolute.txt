@@ -1,0 +1,16 @@
+C:\Users\Canal\Desktop\PROGRAMACION II\INFO -104\INFO -104\bin\Debug\INFO -104.exe.config
+C:\Users\Canal\Desktop\PROGRAMACION II\INFO -104\INFO -104\bin\Debug\INFO -104.exe
+C:\Users\Canal\Desktop\PROGRAMACION II\INFO -104\INFO -104\bin\Debug\INFO -104.pdb
+C:\Users\Canal\Desktop\PROGRAMACION II\INFO -104\INFO -104\obj\Debug\INFO -104.csproj.AssemblyReference.cache
+C:\Users\Canal\Desktop\PROGRAMACION II\INFO -104\INFO -104\obj\Debug\INFO -104.csproj.SuggestedBindingRedirects.cache
+C:\Users\Canal\Desktop\PROGRAMACION II\INFO -104\INFO -104\obj\Debug\INFO -104.csproj.CoreCompileInputs.cache
+C:\Users\Canal\Desktop\PROGRAMACION II\INFO -104\INFO -104\obj\Debug\INFO -104.exe
+C:\Users\Canal\Desktop\PROGRAMACION II\INFO -104\INFO -104\obj\Debug\INFO -104.pdb
+C:\Users\Canal\Desktop\PROGRAMACION II\Info\INFO -104\bin\Debug\INFO -104.exe.config
+C:\Users\Canal\Desktop\PROGRAMACION II\Info\INFO -104\bin\Debug\INFO -104.exe
+C:\Users\Canal\Desktop\PROGRAMACION II\Info\INFO -104\bin\Debug\INFO -104.pdb
+C:\Users\Canal\Desktop\PROGRAMACION II\Info\INFO -104\obj\Debug\INFO -104.csproj.AssemblyReference.cache
+C:\Users\Canal\Desktop\PROGRAMACION II\Info\INFO -104\obj\Debug\INFO -104.csproj.SuggestedBindingRedirects.cache
+C:\Users\Canal\Desktop\PROGRAMACION II\Info\INFO -104\obj\Debug\INFO -104.csproj.CoreCompileInputs.cache
+C:\Users\Canal\Desktop\PROGRAMACION II\Info\INFO -104\obj\Debug\INFO -104.exe
+C:\Users\Canal\Desktop\PROGRAMACION II\Info\INFO -104\obj\Debug\INFO -104.pdb
